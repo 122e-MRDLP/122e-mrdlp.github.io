@@ -2,27 +2,18 @@
 # Website configuration file
 #
 
-name:
+name: 122e Marie Reine de la Paix
 description:
 
 avatar: 
 
 footer-links:
-  dribbble:
   email:
   facebook:
-  flickr:
   github: the-prism
-  instagram:
-  linkedin:
-  pinterest:
   rss: the-prism # just type anything here for a working RSS icon
-  twitter: recon023
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
 
-footer-text: Text to display in the footer of your site
+footer-text: 122e Groupe Scout Marie Reine de la Paix
 
 url: 
 
@@ -38,7 +29,7 @@ categories: []
 
 excerpt_length: 50
 
-permalink: /story/:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
